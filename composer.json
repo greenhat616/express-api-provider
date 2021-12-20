@@ -1,0 +1,21 @@
+{
+    "name": "greenhat616/express-api-provider",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Greenhat616\\ExpressApiProvider\\": "src/",
+            "Greenhat616\\ExpressApiProvider\\PDD": "src/pdd",
+            "Greenhat616\\ExpressApiProvider\\TaoBao": "src/taobao"
+        }
+    },
+    "authors": [
+        {
+            "name": "a632079",
+            "email": "a632079@qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
