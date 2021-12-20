@@ -5,8 +5,8 @@
     "autoload": {
         "psr-4": {
             "Greenhat616\\ExpressApiProvider\\": "src/",
-            "Greenhat616\\ExpressApiProvider\\PDD": "src/pdd",
-            "Greenhat616\\ExpressApiProvider\\TaoBao": "src/taobao"
+            "Greenhat616\\ExpressApiProvider\\PDD\\": "src/pdd",
+            "Greenhat616\\ExpressApiProvider\\TaoBao\\": "src/taobao"
         }
     },
     "authors": [
